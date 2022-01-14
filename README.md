@@ -1,37 +1,46 @@
-Community License
-README Generator
-Description
-This project is for README generator. The purpose of this project is to create an application that makes creating README files efficiently.
 
-Video Link
-https://drive.google.com/drive/folders/12RRP3DJ_wTMfJJkHWK176zSMOMY-E6qi?usp=sharing
+  [![Community License](https://img.shields.io/badge/license-Community-blue.svg)](http://www.gnu.org/licenses/Community-3.0)
 
-Table of Contents
-Installation
-Usage
-Contributing
-License
-Badges
-Features
-Tests
-Questions
-Installation
-To use this application you will to install inquirier, filesync(fs), and node.js. Clone the repo. Then open the integrated terminal. Then type in node index.js. Follow the prompt and you should be all set and the README should populate.
+  # README Generator
+  
+  ## Description
+  This application helps people create notes with ease and simple access. Just by going to the link below they will be able to access the application and create      notes for themselves.
+  
+  
+  ## Deployed Link
+    https://tranquil-temple-75899.herokuapp.com/notes
+ 
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Badges](#badges)
+  - [Features](#features)
+  - [Tests](#test)
+  - [Questions](#questions)
+ 
+  ## Installation
+  No installation is needed to access the application. 
+  
+  ## Usage 
 
-Usage
-Examples to use this application would be as a baseline for when you begin projects and would like to have a README already generated.
+  
+  ## Contributing
+  Do not contribute to this application. Thank you.
 
-Contributing
-Do not contribute to this application. Thank you.
+  
+  ## License
+  Community
+  
 
-License
-Community
-
-Features
-N/A
-
-Tests
-N/A
-
-Questions
-If you have any questions feel free to contact me via email kevinc.php@gmail.com, https://github.com/kevin-cortina.
+  ## Features
+  N/A
+  
+  ## Tests
+  N/A
+ 
+  
+  ## Questions
+  If you have any questions feel free to contact me via email kevinc.php@gmail.com,          https://github.com/kevin-cortina.
+  
