@@ -7,7 +7,7 @@ const fs = require('fs');
 const { readFromFile, readAndAppend, writeToFile } = require('./helpers/fsUtils.js');
 
 const app = express();
-const PORT = process.env.PORT; 
+const PORT = process.env.PORT || 3001; 
 
 //middleware
 app.use(express.urlencoded({ extended: true }));
