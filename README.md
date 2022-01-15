@@ -24,7 +24,7 @@
   No installation is needed to access the application. 
   
   ## Usage 
-
+  The purpose of this application is to offer easy note taking abilities to ts user. This application simplifies that task for users to offer a 4 step process to adding, removing, or editing their notes.
   
   ## Contributing
   Do not contribute to this application. Thank you.
