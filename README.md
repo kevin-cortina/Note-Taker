@@ -8,7 +8,7 @@
   
   
   ## Deployed Link
-    https://tranquil-temple-75899.herokuapp.com/notes
+    https://tranquil-temple-75899.herokuapp.com/
  
   ## Table of Contents
   - [Installation](#installation)
