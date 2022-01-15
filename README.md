@@ -1,7 +1,7 @@
 
   [![Community License](https://img.shields.io/badge/license-Community-blue.svg)](http://www.gnu.org/licenses/Community-3.0)
 
-  # README Generator
+  # Note-Taker ReadMe
   
   ## Description
   This application helps people create notes with ease and simple access. Just by going to the link below they will be able to access the application and create      notes for themselves.
@@ -11,6 +11,7 @@
     https://tranquil-temple-75899.herokuapp.com/
     
   ## Screenshots
+
   ![Screenshot of mainpage Note-Taker](./public/assets/pictures/mainpage.png)
   ![Screenshot of Bio-Page InterActor](./public/assets/pictures/notepage.png)
  
