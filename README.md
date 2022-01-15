@@ -9,9 +9,10 @@
   
   ## Deployed Link
     https://tranquil-temple-75899.herokuapp.com/
-
-    ![Screenshot of mainpage Note-Taker](./public/assets/pictures/mainpage.png)
-    ![Screenshot of Bio-Page InterActor](./public/assets/pictures/notepage.png)
+    
+  ## Screenshots
+  ![Screenshot of mainpage Note-Taker](./public/assets/pictures/mainpage.png)
+  ![Screenshot of Bio-Page InterActor](./public/assets/pictures/notepage.png)
  
   ## Table of Contents
   - [Installation](#installation)
